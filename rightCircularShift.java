@@ -1,8 +1,12 @@
+/*
+    amlaanb
+    https://github.com/amlaanb
+    https://www.hackerrank.com/amlaanb
+    02-NOV-2016
+*/
+
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
     
