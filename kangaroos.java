@@ -1,3 +1,10 @@
+/*
+    amlaanb
+    https://github.com/amlaanb
+    https://www.hackerrank.com/amlaanb
+    02-NOV-2016
+*/
+
 import java.io.*;
 import java.util.*;
 
